@@ -1,0 +1,1 @@
+# chatGpt-vscode-laravel-generator
